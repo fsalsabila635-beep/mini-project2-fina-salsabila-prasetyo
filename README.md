@@ -13,7 +13,8 @@ program ini dilengkapi dengan sistem login menggunkan username dan password sert
 # flowchat
 
 
-<img width="1062" height="846" alt="image" src="https://github.com/user-attachments/assets/047ad077-5cd8-4a0b-ad3f-354f83e31b66" />
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/945c9836-bd82-4bee-a542-b88b26e5bc51" />
 
 
 # penjelsan alur
